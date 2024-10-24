@@ -1,0 +1,4 @@
+hi:Hi, i am a chatbot here to help you
+hello:Hello, i am a chatbot here to help you
+how:How what? Could you expand on what you mean.
+how are you:Im doing fine today, is there anything you need me to help you with?
