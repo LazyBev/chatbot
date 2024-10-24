@@ -79,5 +79,5 @@ chatbot() {
     done  
 }
 
-echo "Welcome to BevGPT, a chatbot that assists you (enter '!define' to generate an answer for a prompt)"
+echo "Welcome to BevGPT, a chatbot that assists you (enter '!define' to generate an answer for the last prompt entered)"
 chatbot
